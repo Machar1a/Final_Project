@@ -17,7 +17,3 @@ $ npm run dev
 
 # Visit http://localhost:5000
 ```
-
-### MongoDB
-
-DB data stored in "config/keys.js"
