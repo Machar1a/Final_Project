@@ -1,8 +1,8 @@
-# Application
+# Node.js & Passport Login
 
-This project is a user login and registration app built mainly on Nodejs, Express, Passport, Mongoose, EJS and some other packages.
+This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
-### Version: 1.0.0
+### Version: 2.0.0
 
 ### Usage
 
@@ -12,10 +12,12 @@ $ npm install
 
 ```sh
 $ npm start
+# Or run with Nodemon
+$ npm run dev
 
 # Visit http://localhost:5000
 ```
 
-### Database
+### MongoDB
 
-Database info in "config/keys.js"
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
